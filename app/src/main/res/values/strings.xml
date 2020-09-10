@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Candidate Code Review</string>
+    <string name="main_title">Press multiply to start</string>
 </resources>
